@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Roman\source\repos\Week6StringsAndArrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
